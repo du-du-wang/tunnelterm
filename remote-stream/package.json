@@ -43,6 +43,6 @@
     "url": "https://github.com/jiale-wangOwO/tunnelterm.git"
   },
   "dependencies": {
-    "ws": "^8.18.3"
+    "ws": "^8.22.1"
   }
 }
